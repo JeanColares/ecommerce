@@ -2,7 +2,7 @@
 <%@page import="dao.CategoriaDAO"%>
 <%@include file="../cabecalho.jsp" %>
 <%
-String msg ="testando";
+String msg ="testando 2";
 String classe = "alert-danger";
 Categoria obj;
 if(request.getMethod().equals("POST"))
